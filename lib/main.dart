@@ -22,7 +22,7 @@ class MvvmApp extends StatelessWidget {
         primaryColorDark: Color(0xff000000),
       ),
       home: MainPage(viewModel: mainPageVM),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
     );
   }
 }
