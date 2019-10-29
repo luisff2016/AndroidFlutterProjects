@@ -15,7 +15,7 @@ class MvvmApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Flutter MVVM Demo',
+      title: 'Exemplo MVVM Flutter',
       theme: new ThemeData(
         primaryColor: Color(0xff070707),        
         primaryColorLight: Color(0xff0a0a0a),
